@@ -3,6 +3,7 @@
 #include <ESP8266WiFi.h>
 
 #include <BlynkSimpleEsp8266.h>
+//code partially from https://www.instructables.com/id/Blink-a-LED-With-Blynk-App-Wemos-D1-Mini-Pro/
 
 //got auth code in Blynk-App
 char auth[] = "ALnAFPGPq6w7sxreKC0n2TOYCQ6dT5ku";
